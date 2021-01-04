@@ -1,5 +1,5 @@
 {
-    "_snipeZone": 18,
+    "_snipeZone": 19,
     "_precastBuffs": false,
     "_swapTitanLoadouts": true,
     "_swapYggdrasilLoadouts": false,
@@ -95,7 +95,7 @@
         false,
         false,
         true,
-        false,
+        true,
         false,
         false,
         false,
