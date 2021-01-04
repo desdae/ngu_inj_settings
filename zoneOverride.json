@@ -1,0 +1,13 @@
+{
+    "zones": {
+    "0": {
+      "MPower": 10,
+      "MToughness": 10,
+      "IPower": 13,
+      "IToughness": 13,
+      "OPower": 129.5,
+      "Name": "Tutorial Zone"
+    }
+}
+}
+        
