@@ -51,7 +51,7 @@
     "_questFastCombat": true,
     "_autoSpellSwap": true,
     "_spaghettiThreshold": 28,
-    "_counterfeitThreshold": 800,
+    "_counterfeitThreshold": 750,
     "_castBloodSpells": true,
     "_ironPillThreshold": 4000,
     "_bloodMacGuffinAThreshold": 6,
