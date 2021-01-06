@@ -83,8 +83,10 @@
 			},
             "Priorities":[
                "CAPWAN",
+			   "NGU-0",
 			   "NGU-4",
-			   "NGU-6"
+			   "NGU-3",
+			   "NGU-5"
             ]			
 		 }
 		 
