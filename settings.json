@@ -87,7 +87,7 @@
     "_cubePriority": 1,
     "_manageNguDiff": true,
     "_allocationFile": "des",
-    "_manageGoldLoadouts": true,
+    "_manageGoldLoadouts": false,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
         false,
