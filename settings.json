@@ -2,7 +2,7 @@
     "_snipeZone": 19,
     "_precastBuffs": false,
     "_swapTitanLoadouts": true,
-    "_swapYggdrasilLoadouts": false,
+    "_swapYggdrasilLoadouts": true,
     "_priorityBoosts": [],
     "_manageEnergy": true,
     "_manageMagic": true,
@@ -25,7 +25,9 @@
         76,
         110
     ],
-    "_yggdrasilLoadout": [],
+    "_yggdrasilLoadout": [
+               184, 185, 186, 158, 188, 190, 161, 149, 189, 170, 138, 443
+            ],
     "_manageInventory": true,
     "_autoFight": true,
     "_autoQuest": true,
@@ -52,7 +54,7 @@
     "_autoRebirth": false,
     "_manageWandoos": false,
     "_moneyPitThreshold": 1e27,
-    "_doGoldSwap": true,
+    "_doGoldSwap": false,
     "_boostBlacklist": [],
     "_snipeBossOnly": false,
     "_recoverHealth": false,
@@ -108,7 +110,7 @@
         false,
         false,
         false,
-        true,
+        false,
         true,
         false,
         false,
