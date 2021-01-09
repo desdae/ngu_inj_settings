@@ -23,7 +23,8 @@
         116,
         170,
         76,
-        110
+        110,
+        192
     ],
     "_yggdrasilLoadout": [
         184,
@@ -57,7 +58,8 @@
         116,
         170,
         76,
-        110
+        110,
+        192
     ],
     "_autoMoneyPit": true,
     "_autoSpin": true,
@@ -65,7 +67,7 @@
     "_autoRebirth": false,
     "_manageWandoos": false,
     "_moneyPitThreshold": 1e27,
-    "_doGoldSwap": true,
+    "_doGoldSwap": false,
     "_boostBlacklist": [],
     "_snipeBossOnly": false,
     "_recoverHealth": false,
@@ -100,7 +102,7 @@
     "_cubePriority": 1,
     "_manageNguDiff": true,
     "_allocationFile": "des",
-    "_manageGoldLoadouts": false,
+    "_manageGoldLoadouts": true,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
         false,
@@ -148,7 +150,7 @@
     ],
     "_goldCBlockMode": true,
     "_debugAllocation": false,
-    "_optimizeItopodFloor": false,
+    "_optimizeItopodFloor": true,
     "_itopodCombatMode": 0,
     "_itopodBeastMode": true,
     "_itopodFastCombat": true,
