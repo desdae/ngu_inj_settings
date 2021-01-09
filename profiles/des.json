@@ -75,8 +75,9 @@
             "Time":10810,
             "Priorities":[
 			   "CAPWAN",
-               "NGU-4",
-			   "NGU-6"
+               "CAPNGU-4:50",
+			   "CAPNGU-6:50",
+			   "TM"
             ]
          },
 		 {
