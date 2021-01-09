@@ -65,7 +65,7 @@
     "_autoRebirth": false,
     "_manageWandoos": false,
     "_moneyPitThreshold": 1e27,
-    "_doGoldSwap": false,
+    "_doGoldSwap": true,
     "_boostBlacklist": [],
     "_snipeBossOnly": false,
     "_recoverHealth": false,
