@@ -19,8 +19,9 @@
             "Time":10810,
             "Priorities":[
 			   "BR",
-               "NGU-0",
-			   "NGU-1"
+               "CAPNGU-0:50",
+			   "CAPNGU-1:50",
+			   "TM"
             ]
          },
 ,
@@ -33,8 +34,9 @@
             "Priorities":[
                "CAPWAN",
 			   "BR",
-               "NGU-0",
-			   "NGU-1"
+               "CAPNGU-2:40",
+			   "CAPNGU-6:60",
+			   "TM"
             ]			
 		 }		 
       ],
@@ -87,7 +89,7 @@
 			   "CAPNGU-4:20",
 			   "CAPNGU-8:20",
 			   "CAPNGU-5:20",
-			   "CAPNGU-1:20",
+			   "CAPNGU-2:20",
 			   "TM"
             ]			
 		 }
