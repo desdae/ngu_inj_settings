@@ -9,7 +9,7 @@
       "Energy": [
         {
           "Time": 0,
-          "Priorities": ["CAPAUG-12:60", "CAPAUG-13:20", "TM", "WAN"]
+          "Priorities": ["CAPAUG-12:75", "CAPAUG-13:15", "TM", "WAN"]
         }
       ],
     "R3": [
