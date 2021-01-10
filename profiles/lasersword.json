@@ -1,0 +1,48 @@
+{
+    "Breakpoints": {
+      "Magic": [
+        {
+          "Time": 0,
+          "Priorities": ["BR", "TM", "WAN"]
+        }
+      ],
+      "Energy": [
+        {
+          "Time": 0,
+          "Priorities": ["CAPAUG-12:60", "CAPAUG-13:20", "TM", "WAN"]
+        }
+      ],
+    "R3": [
+        {
+          "Time": 0,
+          "Priorities": []
+        }
+      ],
+      "Gear": [
+        {
+          "Time": 0,
+          "ID": []
+        }
+      ],
+      "Wandoos": [
+        {
+          "Time": 0,
+          "OS": 0
+        }
+      ],
+      "Diggers": [
+        {
+          "Time": 0,
+          "List": [0, 1, 2, 3, 10, 11]
+        }
+      ],
+      "NGUDiff": [
+        {
+          "Time": 0,
+          "Diff": 0
+        }
+      ],
+      "RebirthTime": -1
+    }
+  }
+        
