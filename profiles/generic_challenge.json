@@ -44,7 +44,7 @@
       ],
 	 "Rebirth": {
 		"Type": "Number",
-		"Target": 1000000,
+		"Target": 1000,
 		"Challenges": ["24HR-6","24HR-7","24HR-8","24HR-9","24HR-10"]
 	  }	  
     }
