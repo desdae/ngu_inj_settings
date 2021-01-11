@@ -1,5 +1,5 @@
 {
-    "_snipeZone": 18,
+    "_snipeZone": 19,
     "_precastBuffs": false,
     "_swapTitanLoadouts": true,
     "_swapYggdrasilLoadouts": true,
@@ -103,7 +103,7 @@
     "_beastMode": true,
     "_cubePriority": 1,
     "_manageNguDiff": true,
-    "_allocationFile": "generic_challenge",
+    "_allocationFile": "number_reducer",
     "_manageGoldLoadouts": true,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
