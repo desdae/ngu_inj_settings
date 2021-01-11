@@ -9,7 +9,7 @@
       "Energy": [
         {
           "Time": 0,
-          "Priorities": ["CAPAUG-8:70", "CAPAUG-9:15", "TM", "WAN"]
+          "Priorities": ["CAPAUG-0:3", "CAPAUG-2:3", "CAPAUG-4:3", "CAPAUG-8:70", "CAPAUG-9:15", "TM", "WAN"]
         }
       ],
     "R3": [
@@ -33,7 +33,7 @@
       "Diggers": [
         {
           "Time": 30,
-          "List": [0, 1, 2, 7, 10, 11]
+          "List": [0, 1, 2, 3, 7, 10, 11]
         }
       ],
       "NGUDiff": [
@@ -45,7 +45,7 @@
 	 "Rebirth": {
 		"Type": "Number",
 		"Target": 1000,
-		"Challenges": ["24HR-6","24HR-7","24HR-8","24HR-9","BLIND-4","BLIND-5","BLIND-6","BLIND-7","BLIND-8","BLIND-9", "BLIND-10"]
+		"Challenges": ["NONGU-3", "NONGU-4", "NONGU-5", "NONGU-6", "NONGU-7", "NONGU-8", "NONGU-9", "NONGU-10", "NOTM-5", "NOTM-6", "NOTM-7", "NOTM-8", "NOTM-9", "NOTM-10", "NORB-9", "NORB-10"]
 	  }	  
     }
   }
