@@ -44,7 +44,7 @@
       ],
 	 "Rebirth": {
 		"Type": "Number",
-		"Target": 0.000001,
+		"Target": 0.000000001,
 		"Challenges": []
 	  }	  
     }
