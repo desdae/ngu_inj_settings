@@ -44,7 +44,7 @@
     ],
     "_manageInventory": true,
     "_autoFight": true,
-    "_autoQuest": true,
+    "_autoQuest": false,
     "_allowMajorQuests": true,
     "_autoConvertBoosts": false,
     "_autoQuestItopod": false,
