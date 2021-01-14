@@ -35,8 +35,7 @@
             "Priorities":[
                "CAPWAN",
 			   "BR",
-               "CAPNGU-4:40",
-			   "CAPNGU-6:60",
+               "CAPNGU-5",
 			   "TM"
             ]			
 		 }		 
@@ -91,7 +90,7 @@
 			},
             "Priorities":[
                "CAPWAN",
-               "CAPNGU-3:50",
+               "CAPNGU-7:50",
 			   "CAPNGU-4:50",
 			   "TM",
 			   "AT-0",
