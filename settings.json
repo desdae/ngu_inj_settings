@@ -88,7 +88,7 @@
     "_bloodMacGuffinAThreshold": 6,
     "_bloodMacGuffinBThreshold": 6,
     "_autoBuyEm": false,
-    "_bloodNumberThreshold": 10000000000000000.0,
+    "_bloodNumberThreshold": 5000000000000000.0,
     "_quickLoadout": [],
     "_quickDiggers": [],
     "_globalEnabled": true,
