@@ -154,7 +154,7 @@
     ],
     "_goldCBlockMode": true,
     "_debugAllocation": false,
-    "_optimizeItopodFloor": false,
+    "_optimizeItopodFloor": true,
     "_itopodCombatMode": 0,
     "_itopodBeastMode": true,
     "_itopodFastCombat": true,
