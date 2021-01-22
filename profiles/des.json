@@ -5,7 +5,7 @@
             "Time":0,
             "Priorities":[
                "CAPTM",
-               "NGU-0"
+               "CAPALLNGU"
             ]
          },
          {
@@ -46,6 +46,8 @@
             "Time":0,
             "Priorities":[
                "CAPTM",
+			   "AT-0",
+			   "AT-1",
                "AUG-0",
                "AUG-1",
                "AUG-2",
