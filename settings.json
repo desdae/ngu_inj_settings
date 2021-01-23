@@ -1,5 +1,5 @@
 {
-    "_snipeZone": 20,
+    "_snipeZone": 19,
     "_precastBuffs": false,
     "_swapTitanLoadouts": true,
     "_swapYggdrasilLoadouts": true,
@@ -16,7 +16,7 @@
     "_titanLoadout": [
         164,
         185,
-        187,
+        224,
         225,
         136,
         142,
@@ -30,7 +30,7 @@
         223
     ],
     "_yggdrasilLoadout": [
-        184,
+        221,
         185,
         158,
         225,
@@ -53,7 +53,7 @@
     "_goldDropLoadout": [
         164,
         185,
-        187,
+        224,
         225,
         136,
         142,
@@ -154,7 +154,7 @@
     ],
     "_goldCBlockMode": true,
     "_debugAllocation": false,
-    "_optimizeItopodFloor": true,
+    "_optimizeItopodFloor": false,
     "_itopodCombatMode": 0,
     "_itopodBeastMode": true,
     "_itopodFastCombat": true,
