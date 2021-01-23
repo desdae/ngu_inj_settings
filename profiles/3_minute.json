@@ -3,22 +3,22 @@
     "Magic": [
       {
         "Time": 0,
-        "Priorities": ["CAPTM", "WAN"]
+        "Priorities": ["CAPTM", "CAPWAN"]
       },
       {
         "Time": 60,
-        "Priorities": ["BR", "WAN"]
+        "Priorities": ["BR", "CAPWAN"]
       }
     ],
     "Energy": [
       {
         "Time": 0,
-        "Priorities": ["CAPTM", "AUG-4", "AUG-5"]
+        "Priorities": ["CAPTM", "CAPBESTAUG", "CAPWAN"]
       },
       {
         "Time": 60,
-        "Priorities": ["TM", "WAN", "AUG-2", "AUG-3"]
-      }	  
+        "Priorities": ["CAPWAN", "CAPBESTAUG"]
+      }
     ],
     "Gear": [
       {
@@ -45,8 +45,12 @@
     ],
     "Diggers": [
       {
-        "Time": 165,
-        "List": [2]
+        "Time": 60,
+        "List": [1, 2]
+      },
+      {
+        "Time": 120,
+        "List": [1, 2]
       }
     ],
     "RebirthTime": 191
