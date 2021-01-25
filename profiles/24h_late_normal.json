@@ -1,0 +1,58 @@
+{
+  "Breakpoints": {
+    "Magic": [
+      {
+        "Time": 0,
+        "Priorities": ["BR", "CAPTM", "CAPWAN", "CAPALLNGU"]
+      }
+    ],
+    "Energy": [
+      {
+        "Time": 0,
+        "Priorities": ["CAPTM", "CAPAUG-8", "CAPAUG-9", "CAPWAN", "CAPNGU-0", "CAPNGU-3", "CAPNGU-4",  "CAPNGU-8"]
+      },
+      {
+        "Time": 900,
+        "Priorities": ["CAPTM", "CAPAT-0", "CAPAT-1", "CAPAUG-8", "CAPAUG-9", "CAPWAN", "CAPNGU-0", "CAPNGU-3", "CAPNGU-4",  "CAPNGU-8"]
+      },
+      {
+        "Time": 3000,
+        "Priorities": ["CAPTM", "CAPAT-0", "CAPAT-1", "CAPWAN", "CAPNGU-0", "CAPNGU-3", "CAPNGU-4",  "CAPNGU-8"]
+      },
+      {
+        "Time": 5400,
+        "Priorities": ["CAPTM", "CAPWAN", "CAPNGU-0", "CAPNGU-3", "CAPNGU-4",  "CAPNGU-8"]
+      }		  
+    ],
+    "Gear": [
+      {
+        "Time": 0,
+        "ID": [],
+        "Comment": "Time Machine"
+      },
+      {
+        "Time": 60,
+        "ID": [],
+        "Comment": "Augments"
+      },
+      {
+        "Time": 180,
+        "ID": [],
+        "Comment": "Max P/T"
+      }
+    ],
+    "Wandoos": [
+      {
+        "Time": 0,
+        "OS": 3
+      }
+    ],
+    "Diggers": [
+      {
+        "Time": 15,
+        "List": [3, 4, 5, 6, 7, 8, 10, 11]
+      }
+    ],
+    "RebirthTime": -1
+  }
+}
