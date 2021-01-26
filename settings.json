@@ -15,7 +15,6 @@
     "_manageYggdrasil": true,
     "_titanLoadout": [
         164,
-        185,
         224,
         225,
         136,
@@ -27,11 +26,11 @@
         110,
         192,
         194,
-        223
+        223,
+        222
     ],
     "_yggdrasilLoadout": [
         221,
-        185,
         158,
         225,
         190,
@@ -42,7 +41,8 @@
         138,
         443,
         193,
-        223
+        223,
+        222
     ],
     "_manageInventory": true,
     "_autoFight": true,
@@ -52,7 +52,6 @@
     "_autoQuestItopod": false,
     "_goldDropLoadout": [
         164,
-        185,
         224,
         225,
         136,
@@ -63,7 +62,8 @@
         76,
         110,
         192,
-        223
+        223,
+        222
     ],
     "_autoMoneyPit": true,
     "_autoSpin": true,
