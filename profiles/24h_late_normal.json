@@ -25,7 +25,7 @@
       },
       {
         "Time": 5400,
-        "Priorities": ["CAPTM", "CAPWAN", "CAPNGU-0", "CAPNGU-3", "CAPNGU-4",  "CAPNGU-8"]
+        "Priorities": ["CAPTM", "CAPWAN", "CAPNGU-0", "CAPNGU-3", "CAPNGU-4",  "CAPNGU-7", "CAPNGU-8"]
       }		  
     ],
     "Gear": [
