@@ -3,11 +3,11 @@
     "Magic": [
       {
         "Time": 0,
-        "Priorities": ["BR", "CAPTM", "CAPWAN", "CAPNGU-5", "CAPNGU-6"]
+        "Priorities": ["BR", "CAPTM", "CAPWAN", "CAPNGU-5", "CAPNGU-6", "CAPNGU-4"]
       },
       {
         "Time": 10800,
-        "Priorities": ["BR", "CAPWAN", "CAPNGU-5", "CAPNGU-6"]
+        "Priorities": ["BR", "CAPWAN", "CAPNGU-5", "CAPNGU-6", "CAPNGU-4"]
       }	  
     ],
     "Energy": [
