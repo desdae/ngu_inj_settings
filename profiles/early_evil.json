@@ -1,0 +1,46 @@
+{
+  "Breakpoints": {
+    "Magic": [
+      {
+        "Time": 0,
+        "Priorities": ["CAPNGU-6", "CAPNGU-5"]
+      }
+    ],
+    "Energy": [
+      {
+        "Time": 0,
+        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPNGU-8", "CAPNGU-7"]
+      }
+    ],
+    "Gear": [
+      {
+        "Time": 0,
+        "ID": [],
+        "Comment": "Time Machine"
+      },
+      {
+        "Time": 60,
+        "ID": [],
+        "Comment": "Augments"
+      },
+      {
+        "Time": 180,
+        "ID": [],
+        "Comment": "Max P/T"
+      }
+    ],
+    "Wandoos": [
+      {
+        "Time": 0,
+        "OS": 3
+      }
+    ],
+    "Diggers": [
+      {
+        "Time": 15,
+        "List": [3, 4, 5, 6, 7, 8, 9, 11]
+      }
+    ],
+    "RebirthTime": -1
+  }
+}

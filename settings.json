@@ -105,7 +105,7 @@
     "_beastMode": false,
     "_cubePriority": 1,
     "_manageNguDiff": true,
-    "_allocationFile": "generic_challenge",
+    "_allocationFile": "early_evil",
     "_manageGoldLoadouts": true,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
@@ -160,7 +160,7 @@
     "_itopodFastCombat": true,
     "_itopodRecoverHp": false,
     "_itopodPrecastBuffs": false,
-    "_adventureTargetItopod": false,
+    "_adventureTargetItopod": true,
     "_disableOverlay": false,
     "_yggSwapThreshold": 1,
     "_moreBlockParry": false,
