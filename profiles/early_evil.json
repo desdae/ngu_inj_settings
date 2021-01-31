@@ -10,23 +10,22 @@
       {
         "Time": 0,
         "Priorities": ["CAPAT-0", "CAPAT-1", "CAPNGU-8", "CAPNGU-7"]
-      }
+      },
+      {
+        "Time": 43200,
+        "Priorities": ["CAPNGU-8", "CAPNGU-7", "CAPNGU-6"]
+      }	  
     ],
     "Gear": [
       {
         "Time": 0,
-        "ID": [],
-        "Comment": "Time Machine"
+        "ID": [164, 222, 223, 224, 225, 190, 161, 445, 195, 170, 444, 218, 192, 194],
+        "Comment": "Advanced training"
       },
       {
-        "Time": 60,
-        "ID": [],
-        "Comment": "Augments"
-      },
-      {
-        "Time": 180,
-        "ID": [],
-        "Comment": "Max P/T"
+        "Time": 43200,
+        "ID": [221, 222, 223, 224, 225, 190, 161, 445, 195, 170, 444, 218, 192, 194],
+        "Comment": "Combat"
       }
     ],
     "Wandoos": [
