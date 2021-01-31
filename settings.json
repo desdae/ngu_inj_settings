@@ -1,7 +1,7 @@
 {
     "_snipeZone": 21,
     "_precastBuffs": false,
-    "_swapTitanLoadouts": true,
+    "_swapTitanLoadouts": false,
     "_swapYggdrasilLoadouts": true,
     "_priorityBoosts": [
         178
