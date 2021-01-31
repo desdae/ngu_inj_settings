@@ -3,7 +3,7 @@
     "Magic": [
       {
         "Time": 0,
-        "Priorities": ["CAPNGU-6", "CAPNGU-5"]
+        "Priorities": ["CAPALLNGU"]
       }
     ],
     "Energy": [
@@ -13,7 +13,7 @@
       },
       {
         "Time": 43200,
-        "Priorities": ["CAPNGU-8", "CAPNGU-7", "CAPNGU-6"]
+        "Priorities": ["CAPALLNGU"]
       }	  
     ],
     "Gear": [
