@@ -6,7 +6,7 @@
     "_priorityBoosts": [
         178
     ],
-    "_manageEnergy": true,
+    "_manageEnergy": false,
     "_manageMagic": true,
     "_fastCombat": false,
     "_manageGear": true,
