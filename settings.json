@@ -160,7 +160,7 @@
     "_itopodFastCombat": true,
     "_itopodRecoverHp": false,
     "_itopodPrecastBuffs": false,
-    "_adventureTargetItopod": false,
+    "_adventureTargetItopod": true,
     "_disableOverlay": false,
     "_yggSwapThreshold": 1,
     "_moreBlockParry": false,

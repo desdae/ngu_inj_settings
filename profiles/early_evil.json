@@ -3,17 +3,17 @@
     "Magic": [
       {
         "Time": 0,
-        "Priorities": ["CAPALLNGU"]
+        "Priorities": ["CAPNGU-1", "CAPNGU-2"]
       }
     ],
     "Energy": [
       {
         "Time": 0,
-        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPALLNGU"]
+        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPNGU-4", "CAPNGU-3"]
       },
       {
         "Time": 43200,
-        "Priorities": ["CAPALLNGU", "WAN"]
+        "Priorities": ["CAPNGU-4", "CAPNGU-3", "WAN"]
       }	  
     ],
     "Gear": [
