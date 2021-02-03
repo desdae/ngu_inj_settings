@@ -9,11 +9,11 @@
     "Energy": [
       {
         "Time": 0,
-        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPNGU-4", "CAPNGU-3"]
+        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPNGU-5", "CAPNGU-3"]
       },
       {
         "Time": 43200,
-        "Priorities": ["CAPNGU-4", "CAPNGU-3", "WAN"]
+        "Priorities": ["CAPNGU-5", "CAPNGU-3", "WAN"]
       }	  
     ],
     "Gear": [
