@@ -4,7 +4,11 @@
       {
         "Time": 0,
         "Priorities": ["CAPALLNGU", "BR"]
-      }
+      },
+      {
+        "Time": 43200,
+        "Priorities": ["CAPALLNGU", "WAN", "BR"]
+      }	  
     ],
     "Energy": [
       {
