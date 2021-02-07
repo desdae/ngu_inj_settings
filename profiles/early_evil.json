@@ -8,6 +8,18 @@
       {
         "Time": 43200,
         "Priorities": ["CAPALLNGU", "WAN", "BR"]
+      },
+      {
+        "Time": 46800,
+        "Priorities": ["BR", "WAN"]
+      }, 
+      {
+        "Time": 50400,
+        "Priorities": ["CAPTM", "WAN", "BR"]
+      },
+      {
+        "Time": 54000,
+        "Priorities": ["CAPWAN", "CAPALLNGU", "BR"]
       }	  
     ],
     "Energy": [
@@ -18,7 +30,15 @@
       {
         "Time": 43200,
         "Priorities": ["CAPALLNGU", "WAN", "TM"]
-      }	  
+      },
+	  {
+        "Time": 46800,
+        "Priorities": ["CAPAUG-0", "CAPAUG-1", "WAN"]
+      }, 
+      {
+        "Time": 50400,
+        "Priorities": ["CAPALLNGU", "WAN", "TM"]
+      }
     ],
     "Gear": [
       {
