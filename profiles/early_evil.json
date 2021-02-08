@@ -19,7 +19,7 @@
       },
       {
         "Time": 54000,
-        "Priorities": ["CAPWAN", "CAPALLNGU", "BR"]
+        "Priorities": ["CAPWAN", "NGU-2", "BR"]
       }	  
     ],
     "Energy": [
