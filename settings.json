@@ -76,7 +76,7 @@
     "_snipeBossOnly": false,
     "_recoverHealth": false,
     "_combatMode": 0,
-    "_allowZoneFallback": true,
+    "_allowZoneFallback": false,
     "_abandonMinors": false,
     "_minorAbandonThreshold": 30,
     "_questCombatMode": 0,

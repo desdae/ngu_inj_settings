@@ -37,7 +37,7 @@
       }, 
       {
         "Time": 50400,
-        "Priorities": ["CAPNGU-2", "WAN", "TM"]
+        "Priorities": ["CAPNGU-3", "WAN", "TM"]
       }
     ],
     "Gear": [
