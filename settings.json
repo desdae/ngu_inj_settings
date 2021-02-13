@@ -1,5 +1,5 @@
 {
-    "_snipeZone": 22,
+    "_snipeZone": 23,
     "_precastBuffs": false,
     "_swapTitanLoadouts": false,
     "_swapYggdrasilLoadouts": true,
@@ -15,8 +15,6 @@
     "_manageYggdrasil": true,
     "_titanLoadout": [
         164,
-        224,
-        225,
         136,
         142,
         94,
@@ -26,13 +24,13 @@
         110,
         192,
         194,
-        223,
-        222
+        215,
+        213,
+        216,
+        241
     ],
     "_yggdrasilLoadout": [
-        221,
         158,
-        225,
         190,
         161,
         149,
@@ -41,8 +39,9 @@
         138,
         443,
         193,
-        223,
-        222
+        241,
+        215,
+        213
     ],
     "_manageInventory": true,
     "_autoFight": true,
@@ -52,8 +51,6 @@
     "_autoQuestItopod": false,
     "_goldDropLoadout": [
         164,
-        224,
-        225,
         136,
         142,
         94,
@@ -62,8 +59,9 @@
         76,
         110,
         192,
-        223,
-        222
+        241,
+        215,
+        214
     ],
     "_autoMoneyPit": true,
     "_autoSpin": true,
@@ -76,7 +74,7 @@
     "_snipeBossOnly": false,
     "_recoverHealth": false,
     "_combatMode": 0,
-    "_allowZoneFallback": false,
+    "_allowZoneFallback": true,
     "_abandonMinors": false,
     "_minorAbandonThreshold": 30,
     "_questCombatMode": 0,
@@ -106,7 +104,7 @@
     "_cubePriority": 1,
     "_manageNguDiff": true,
     "_allocationFile": "early_evil",
-    "_manageGoldLoadouts": true,
+    "_manageGoldLoadouts": false,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
         false,
@@ -114,7 +112,7 @@
         false,
         false,
         false,
-        true,
+        false,
         false,
         false,
         false,
@@ -128,8 +126,8 @@
         false,
         false,
         false,
-        true,
         false,
+        true,
         false,
         false,
         false,
