@@ -103,8 +103,8 @@
     "_beastMode": false,
     "_cubePriority": 1,
     "_manageNguDiff": true,
-    "_allocationFile": "early_evil",
-    "_manageGoldLoadouts": false,
+    "_allocationFile": "mid_evil",
+    "_manageGoldLoadouts": true,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
         false,

@@ -1,0 +1,66 @@
+{
+  "Breakpoints": {
+    "Magic": [
+      {
+        "Time": 0,
+        "Priorities": ["CAPTM", "BR"]
+      },
+      {
+        "Time": 3600,
+        "Priorities": ["CAPWAN", "BR", "TM"]
+      },
+      {
+        "Time": 10800,
+        "Priorities": ["CAPWAN", "CAPALLNGU", "TM"]
+      }	  
+    ],
+    "Energy": [
+      {
+        "Time": 0,
+        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPAT-3", "CAPAT-4", "CAPTM"]
+      },
+	  {
+        "Time": 3600,
+        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPAT-3", "CAPAT-4", "CAPAUG-0:50", "CAPAUG-1:40", "CAPWAN", "CAPALLNGU"]
+      }, 
+      {
+        "Time": 7200,
+        "Priorities": ["CAPAT-0", "CAPAT-1", "CAPWAN", "CAPALLNGU", "TM"]
+      }
+    ],
+	"R3": [
+		{
+			"Time": 0,
+			"Priorities": ["HACK-0"]
+		}
+	],	
+    "Gear": [
+      {
+        "Time": 0,
+        "ID": [213, 214, 215, 216, 241, 190, 242, 445, 195, 170, 444, 218, 192, 194],
+        "Comment": "Combat"
+      }
+    ],
+    "Wandoos": [
+      {
+        "Time": 0,
+        "OS": 3
+      }
+    ],
+    "Diggers": [
+      {
+        "Time": 15,
+        "List": [3, 4, 5, 6, 7, 8, 9, 11]
+      },
+      {
+        "Time": 3600,
+        "List": [3, 4, 5, 6, 7, 8, 10, 11]
+      },	  
+      {
+        "Time": 7200,
+        "List": [3, 4, 5, 6, 7, 8, 9, 11]
+      } 	  
+    ],
+    "RebirthTime": -1
+  }
+}
