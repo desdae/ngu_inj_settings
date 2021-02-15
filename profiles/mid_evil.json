@@ -10,7 +10,7 @@
         "Priorities": ["CAPWAN", "BR", "TM"]
       },
       {
-        "Time": 10800,
+        "Time": 7200,
         "Priorities": ["CAPWAN", "CAPALLNGU", "TM"]
       }	  
     ],
