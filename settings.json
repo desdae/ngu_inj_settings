@@ -24,7 +24,7 @@
         110,
         192,
         194,
-        215,
+        239,
         213,
         216,
         241
@@ -40,7 +40,7 @@
         443,
         193,
         241,
-        215,
+        239,
         213
     ],
     "_manageInventory": true,
@@ -60,7 +60,7 @@
         110,
         192,
         241,
-        215,
+        239,
         214
     ],
     "_autoMoneyPit": true,
@@ -69,7 +69,7 @@
     "_autoRebirth": false,
     "_manageWandoos": false,
     "_moneyPitThreshold": 1e24,
-    "_doGoldSwap": false,
+    "_doGoldSwap": true,
     "_boostBlacklist": [],
     "_snipeBossOnly": false,
     "_recoverHealth": false,
