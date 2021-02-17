@@ -26,7 +26,7 @@
         194,
         239,
         213,
-        216,
+        240,
         241
     ],
     "_yggdrasilLoadout": [
@@ -41,7 +41,8 @@
         193,
         241,
         239,
-        213
+        213,
+        240
     ],
     "_manageInventory": true,
     "_autoFight": true,
@@ -61,7 +62,8 @@
         192,
         241,
         239,
-        238
+        238,
+        240
     ],
     "_autoMoneyPit": true,
     "_autoSpin": true,
