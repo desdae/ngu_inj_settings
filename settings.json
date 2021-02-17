@@ -61,7 +61,7 @@
         192,
         241,
         239,
-        214
+        238
     ],
     "_autoMoneyPit": true,
     "_autoSpin": true,
@@ -69,7 +69,7 @@
     "_autoRebirth": false,
     "_manageWandoos": false,
     "_moneyPitThreshold": 1e24,
-    "_doGoldSwap": true,
+    "_doGoldSwap": false,
     "_boostBlacklist": [],
     "_snipeBossOnly": false,
     "_recoverHealth": false,
@@ -113,7 +113,7 @@
         false,
         false,
         false,
-        false,
+        true,
         false,
         false,
         false,
