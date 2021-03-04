@@ -1,5 +1,5 @@
 {
-    "_snipeZone": 23,
+    "_snipeZone": 24,
     "_precastBuffs": false,
     "_swapTitanLoadouts": false,
     "_swapYggdrasilLoadouts": true,
@@ -85,7 +85,7 @@
     "_spaghettiThreshold": 35,
     "_counterfeitThreshold": 1000,
     "_castBloodSpells": true,
-    "_ironPillThreshold": 4000,
+    "_ironPillThreshold": 40000,
     "_bloodMacGuffinAThreshold": 6,
     "_bloodMacGuffinBThreshold": 6,
     "_autoBuyEm": false,
