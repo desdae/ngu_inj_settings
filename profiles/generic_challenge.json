@@ -45,7 +45,7 @@
 	 "Rebirth": {
 		"Type": "Number",
 		"Target": 1000,
-		"Challenges": ["NOAUG-2", "NOAUG-3", "NOAUG-4", "NOAUG-5", "NOTM-2", "NOTM-3", "NOTM-4"]
+		"Challenges": ["NOAUG-2", "NOAUG-3", "NOAUG-4", "NOAUG-5", "NOTM-2", "NOTM-3", "NOTM-4", "24HR-3"]
 	  }	  
     }
   }
