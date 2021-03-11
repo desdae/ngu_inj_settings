@@ -37,12 +37,12 @@
         189,
         229,
         138,
-        443,
         193,
         255,
         253,
         237,
-		257
+        257,
+        256
     ],
     "_manageInventory": true,
     "_autoFight": true,
@@ -102,7 +102,7 @@
     "_wishPriorities": [],
     "_wishSortPriorities": false,
     "_wishSortOrder": false,
-    "_beastMode": false,
+    "_beastMode": true,
     "_cubePriority": 1,
     "_manageNguDiff": true,
     "_allocationFile": "mid_evil",
