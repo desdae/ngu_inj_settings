@@ -48,7 +48,7 @@
     "_autoFight": true,
     "_autoQuest": true,
     "_allowMajorQuests": true,
-    "_autoConvertBoosts": false,
+    "_autoConvertBoosts": true,
     "_autoQuestItopod": false,
     "_goldDropLoadout": [
         263,
@@ -66,7 +66,7 @@
         261,
         259,
         260,
-        262,
+        269,
         255
     ],
     "_autoMoneyPit": true,
@@ -104,15 +104,14 @@
     "_manageR3": true,
     "_activateFruits": true,
     "_wishPriorities": [
-        0,
-        1
+        5
     ],
     "_wishSortPriorities": false,
     "_wishSortOrder": false,
     "_beastMode": true,
     "_cubePriority": 1,
     "_manageNguDiff": true,
-    "_allocationFile": "wishes",
+    "_allocationFile": "mid_evil",
     "_manageGoldLoadouts": true,
     "_resnipeTime": 3600,
     "_titanMoneyDone": [
@@ -122,7 +121,7 @@
         false,
         false,
         false,
-        true,
+        false,
         false,
         false,
         false,
