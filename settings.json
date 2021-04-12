@@ -49,7 +49,7 @@
     "_autoQuest": true,
     "_allowMajorQuests": true,
     "_autoConvertBoosts": true,
-    "_autoQuestItopod": false,
+    "_autoQuestItopod": true,
     "_goldDropLoadout": [
         263,
         192,
